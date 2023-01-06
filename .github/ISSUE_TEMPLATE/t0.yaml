@@ -1,3 +1,9 @@
-name: T2
+name: :party: T2
 description: File a bug report
 body:
+- type: textarea
+  attributes:
+    label: Label
+    description: Desc ...
+  validations:
+    required: false
