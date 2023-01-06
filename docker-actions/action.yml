@@ -1,0 +1,6 @@
+# action.yml
+name: My GH Action
+description: ' '
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
