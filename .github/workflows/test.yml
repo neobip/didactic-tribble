@@ -5,6 +5,3 @@ run-name: Deploy to ${{ inputs.deploy_target }} by @${{ github.actor }}
 on:
   schedule:
     - cron: 0 20 * * *
-
-jobs:
-
