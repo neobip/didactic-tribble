@@ -1,8 +1,23 @@
-Here's an image:
+Here's our logo (hover to see the title text):
 
-![svg_ref_stack][svg_ref_stack]
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-More text here...
-...
+Reference-style: 
+![alt text][ref]
 
-[svg_ref_stack]: data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMWVtIiBoZWlnaHQ9IjFlbSIgdmlld0JveD0iMCAwIDI1NiAyNTYiPjxwYXRoIGZpbGw9ImN1cnJlbnRDb2xvciIgZD0iTTIzMC45IDE3MmE4IDggMCAwIDEtMi45IDEwLjlsLTk2IDU2YTcuOCA3LjggMCAwIDEtOCAwbC05Ni01NmE4IDggMCAwIDEgOC0xMy44bDkyIDUzLjZsOTItNTMuNmE4IDggMCAwIDEgMTAuOSAyLjlaTTIyMCAxMjEuMWwtOTIgNTMuNmwtOTItNTMuNmE4IDggMCAwIDAtOCAxMy44bDk2IDU2YTcuOCA3LjggMCAwIDAgOCAwbDk2LTU2YTggOCAwIDEgMC04LTEzLjhaTTI4IDg2LjlsOTYgNTZhNy44IDcuOCAwIDAgMCA4IDBsOTYtNTZhOCA4IDAgMCAwIDAtMTMuOGwtOTYtNTZhNy43IDcuNyAwIDAgMC04IDBsLTk2IDU2YTggOCAwIDAgMCAwIDEzLjhaIi8+PC9zdmc+
+Ref2
+![][ref2]
+
+
+
+[Link][1]
+
+[//]: # (Link ref)
+
+[1]: http://b.org
+
+[//]: # (Media ref)
+
+[ref]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[ref2]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
