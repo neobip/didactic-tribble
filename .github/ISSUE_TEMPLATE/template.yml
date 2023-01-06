@@ -1,5 +1,5 @@
-name: 😈 T2
-description: File a bug report
+name: Template name
+description: report description
 body:
 - type: textarea
   attributes:
