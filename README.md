@@ -1,5 +1,5 @@
 # ![][stack] Base Stack
 
-[stack]: https://raw.githubusercontent.com/neobip/shellStack/blob/main/media/stack.svg "alt"
+[stack]: https://github.com/neobip/shellStack/blob/main/media/stack.svg "alt"
 
-[1]: https://github.com/specialorange/FDXCM/blob/master/doc/controllers_brief.svg  "Overview"
+[1]: https://rawgithub.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg "Overview"
