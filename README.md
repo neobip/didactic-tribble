@@ -1,23 +1,9 @@
-Here's our logo (hover to see the title text):
+# ![stack] Base Stack
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+[stack]: https://api.iconify.design/ph:stack-fill.svg?color=%23808080 "Stack ico"
 
-Reference-style: 
-![alt text][ref]
+![Overview][1]
 
-Ref2
-![][ref2]
+[1]: https://github.com/specialorange/FDXCM/blob/master/doc/controllers_brief.svg  "Overview"
 
-
-
-[Link][1]
-
-[//]: # (Link ref)
-
-[1]: http://b.org
-
-[//]: # (Media ref)
-
-[ref]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-[ref2]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMWVtIiBoZWlnaHQ9IjFlbSIgdmlld0JveD0iMCAwIDI1NiAyNTYiPjxwYXRoIGZpbGw9IiM4MDgwODAiIGQ9Ik0yMzAuOSAxNzJhOCA4IDAgMCAxLTIuOSAxMC45bC05NiA1NmE3LjggNy44IDAgMCAxLTggMGwtOTYtNTZhOCA4IDAgMCAxIDgtMTMuOGw5MiA1My42bDkyLTUzLjZhOCA4IDAgMCAxIDEwLjkgMi45Wk0yMjAgMTIxLjFsLTkyIDUzLjZsLTkyLTUzLjZhOCA4IDAgMCAwLTggMTMuOGw5NiA1NmE3LjggNy44IDAgMCAwIDggMGw5Ni01NmE4IDggMCAxIDAtOC0xMy44Wk0yOCA4Ni45bDk2IDU2YTcuOCA3LjggMCAwIDAgOCAwbDk2LTU2YTggOCAwIDAgMCAwLTEzLjhsLTk2LTU2YTcuNyA3LjcgMCAwIDAtOCAwbC05NiA1NmE4IDggMCAwIDAgMCAxMy44WiIvPjwvc3ZnPg==">
